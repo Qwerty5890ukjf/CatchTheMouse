@@ -1,0 +1,6 @@
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.lib\obj\Debug\CatAndMouse.lib.csproj.AssemblyReference.cache
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.lib\obj\Debug\CatAndMouse.lib.csproj.CoreCompileInputs.cache
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.lib\bin\Debug\CatAndMouse.lib.dll
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.lib\bin\Debug\CatAndMouse.lib.pdb
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.lib\obj\Debug\CatAndMouse.lib.dll
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.lib\obj\Debug\CatAndMouse.lib.pdb

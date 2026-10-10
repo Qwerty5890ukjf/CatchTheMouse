@@ -1,0 +1,15 @@
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.csproj.AssemblyReference.cache
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.PlayingAreaForm.resources
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.Properties.Resources.resources
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.Resource.resources
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.csproj.GenerateResource.cache
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\bin\Debug\CatAndMouse.GUI.exe.config
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\bin\Debug\CatAndMouse.GUI.exe
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\bin\Debug\CatAndMouse.GUI.pdb
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\bin\Debug\CatAndMouse.lib.dll
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\bin\Debug\CatAndMouse.lib.pdb
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMo.BA47A379.Up2Date
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.exe
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.pdb
+C:\Users\Racoxa\source\repos\catch_mouse\CatAndMouse.GUI\obj\Debug\CatAndMouse.GUI.exe.config

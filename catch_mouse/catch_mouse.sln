@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatAndMouse.lib", "CatAndMouse.lib\CatAndMouse.lib.csproj", "{CBD7C511-EC5B-4F57-8E41-68BF9CFE58A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatAndMouse.GUI", "CatAndMouse.GUI\CatAndMouse.GUI.csproj", "{05D082F8-B78B-42BF-9667-9E1A8BABBF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD7C511-EC5B-4F57-8E41-68BF9CFE58A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD7C511-EC5B-4F57-8E41-68BF9CFE58A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD7C511-EC5B-4F57-8E41-68BF9CFE58A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD7C511-EC5B-4F57-8E41-68BF9CFE58A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D082F8-B78B-42BF-9667-9E1A8BABBF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D082F8-B78B-42BF-9667-9E1A8BABBF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D082F8-B78B-42BF-9667-9E1A8BABBF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D082F8-B78B-42BF-9667-9E1A8BABBF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594C1382-AE0B-4D19-A94D-EDE52E77993F}
+	EndGlobalSection
+EndGlobal
